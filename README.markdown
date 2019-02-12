@@ -1,3 +1,22 @@
+## Installation
+
+
+### `python2 datafeed/server.py`
+
+Please make sure you are using python2.7.
+
+Before you can start the React application, you have to run
+
+### `npm install`
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+===
 Run
 ===
 To start the server (this will create random market called 'test.csv' in your
@@ -11,6 +30,7 @@ To start the example client:
 
 To unit test the example client:
 	python client_test.py
+	
 
 API Examples
 ============
